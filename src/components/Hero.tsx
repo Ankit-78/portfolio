@@ -23,7 +23,7 @@ const Hero: React.FC = () => {
           </h1>
 
           <h2 className="text-2xl md:text-3xl font-semibold text-gray-700 dark:text-gray-300 mb-6 animate-fade-in-up animation-delay-200">
-            Aspiring Frontend Developer | AI Enthusiast
+            Aspiring Software Developer | AI Enthusiast
           </h2>
 
           <p className="text-lg md:text-xl text-gray-600 dark:text-gray-400 max-w-3xl mx-auto mb-8 leading-relaxed animate-fade-in-up animation-delay-400">
@@ -37,7 +37,7 @@ const Hero: React.FC = () => {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center animate-fade-in-up animation-delay-800">
             <a
-              href="https://drive.google.com/file/d/1NYEmUsZi7zcFtuwKjQThUV5heUQHpaXi/view?usp=sharing"
+              href='https://drive.google.com/file/d/1IM3On5gnL3VnfaoRfpHDWp84lwDFRzdS/view'
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center px-8 py-4 bg-gradient-to-r from-blue-600 to-purple-600 text-white font-semibold rounded-full hover:from-blue-700 hover:to-purple-700 transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl"

@@ -8,7 +8,7 @@ const Projects: React.FC = () => {
       title: "AI Image Transformation SaaS Platform",
       description: "An AI-powered platform for image transformations like background removal, generative fill, colorization, and object removal. Includes user authentication, credits system, and image showcase features.",
       tech: ["Next.js 14", "Node.js", "MongoDB", "Cloudinary", "Clerk", "Stripe", "Tailwind CSS"],
-      liveDemo: "https://nextjs-imaginify-beryl.vercel.app/",
+      liveDemo: "https://sm-imaginify.vercel.app/",
       github: "https://github.com/Ankit-78/Nextjs---Imaginify",
       icon: <Sparkles className="text-purple-600" size={32} />,
       gradient: "from-purple-500 to-pink-500"
